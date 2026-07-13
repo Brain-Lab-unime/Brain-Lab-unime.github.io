@@ -20,11 +20,14 @@ image:
 }
 
 .entry-feature-image {
-  max-height: 350px;
   width: 100%;
+  max-width: 1586px;
+  max-height: none;
+  aspect-ratio: 1586 / 992;
   object-fit: cover;
   object-position: center;
   display: block;
+  margin: 0 auto;
 }
 
 .page-content p {
