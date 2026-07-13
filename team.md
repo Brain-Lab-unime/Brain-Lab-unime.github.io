@@ -8,21 +8,21 @@ permalink: /team/
   <h2>Professors</h2>
   <div class="people-grid">
 
-    <div class="person-card">
+    <a class="person-card" href="https://archivio.unime.it/it/persona/dario-bruneo-0/curriculum" target="_blank" rel="noopener">
       <div class="img-circle">
         <img src="/images/people/Bruneo.jpg" alt="Prof. Dario Bruneo">
       </div>
       <span class="person-name">Prof. Dario Bruneo</span>
       <span class="person-role">Full professor</span>
-    </div>
+    </a>
 
-    <div class="person-card">
+    <a class="person-card" href="https://archivio.unime.it/it/persona/fabrizio-de-vita/curriculum" target="_blank" rel="noopener">
       <div class="img-circle">
         <img src="/images/people/DeVita.jpg" alt="Dr. Fabrizio De Vita">
       </div>
       <span class="person-name">Dr. Fabrizio De Vita</span>
       <span class="person-role">Assistant professor</span>
-    </div>
+    </a>
 
   </div>
 </div>
