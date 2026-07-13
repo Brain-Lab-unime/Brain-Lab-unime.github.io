@@ -7,7 +7,7 @@ plugins:
 
 
 locale: it-IT
-title: BRAIN-Lab Unime
+title: Brain Lab Unime
 description: Bio-inspired neuRal networks and Artificial INtelligence Lab
 url: "https://brain-lab-unime.github.io"
 baseurl: ""
@@ -17,7 +17,7 @@ paginate: 5
 paginate_path: /page:num/
 
 author:
-  name: "BRAIN-Lab"
+  name: "Brain Lab"
   bio: "Bio-inspired neuRal networks and Artificial INtelligence Lab"
 
 # Footer

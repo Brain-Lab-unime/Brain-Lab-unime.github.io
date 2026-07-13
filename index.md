@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Brain-Lab
+title: Brain Lab
 image:
   path: /images/hero.png
 ---
 
-The **Bio-inspired neuRal networks and Artificial INtelligence Lab (Brain-Lab)** at the Department of Engineering of the University of Messina focuses on the study, design, and implementation of intelligent solutions ranging from Smart Environments to Industrial scenarios.
+The **Bio-inspired neuRal networks and Artificial INtelligence Lab (Brain Lab)** at the Department of Engineering of the University of Messina focuses on the study, design, and implementation of intelligent solutions ranging from Smart Environments to Industrial scenarios.
 
 The research activity is organized along two main lines. The first one addresses Cyber-Physical Systems and the exploration of intelligent algorithms based on Deep Neural Networks, aimed at building applications in several domains, including anomaly detection, predictive maintenance, object detection, on-device training, and more.
 

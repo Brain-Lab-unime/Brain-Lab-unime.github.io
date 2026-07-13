@@ -1,6 +1,6 @@
-# BRAIN-Lab
+# Brain Lab
 
-Website of the **Bio-inspired neuRal networks and Artificial INtelligence Lab (BRAIN-Lab)**
+Website of the **Bio-inspired neuRal networks and Artificial INtelligence Lab (Brain Lab)**
 — Department of Engineering, University of Messina.
 
 Built with [Jekyll](https://jekyllrb.com) and the
