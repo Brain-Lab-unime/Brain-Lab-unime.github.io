@@ -1,6 +1,6 @@
 ---
 layout: home
-title: BRAIN-Lab
+title: Brain-Lab
 image:
   path: /images/hero.jpg
 ---
