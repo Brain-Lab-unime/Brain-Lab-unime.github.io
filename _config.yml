@@ -1,0 +1,30 @@
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+
+
+locale: it-IT
+title: BRAIN-Lab Unime
+description: Bio-inspired neuRal networks and Artificial INtelligence Lab
+url: "https://brain-lab-unime.github.io"
+baseurl: ""
+skin: "/assets/css/skins/default.css"
+
+paginate: 5
+paginate_path: /page:num/
+
+author:
+  name: "BRAIN-Lab"
+  bio: "Bio-inspired neuRal networks and Artificial INtelligence Lab"
+
+# Footer
+footer_links:
+  - title: GitHub
+    url: https://github.com/BRAIN-Lab-Unime
+    icon: fab fa-github-square
+
+after_footer_scripts:
+  - /assets/js/custom.js
