@@ -78,7 +78,7 @@ permalink: /team/
 
     <div class="person-card">
       <div class="img-circle">
-        <img src="/images/people/Bruneo.png" alt="Prof. Dario Bruneo">
+        <img src="/images/people/Bruneo.jpg" alt="Prof. Dario Bruneo">
       </div>
       <span class="person-name">Prof. Dario Bruneo</span>
       <span class="person-role">Full professor</span>
@@ -86,7 +86,7 @@ permalink: /team/
 
     <div class="person-card">
       <div class="img-circle">
-        <img src="/images/people/DeVita.png" alt="Dr. Fabrizio De Vita">
+        <img src="/images/people/DeVita.jpg" alt="Dr. Fabrizio De Vita">
       </div>
       <span class="person-name">Dr. Fabrizio De Vita</span>
       <span class="person-role">Assistant professor</span>
@@ -101,7 +101,7 @@ permalink: /team/
 
     <div class="person-card">
       <div class="img-circle">
-        <img src="/images/people/Nawaiseh.png" alt="Dr. Rawan Nawaiseh">
+        <img src="/images/people/Nawaiseh.jpg" alt="Dr. Rawan Nawaiseh">
       </div>
       <span class="person-name">Dr. Rawan Nawaiseh</span>
       <span class="person-role">Post-doc researcher</span>
@@ -109,7 +109,7 @@ permalink: /team/
 
     <div class="person-card">
       <div class="img-circle">
-        <img src="/images/people/Catalfamo.png" alt="Mr. Enrico Catalfamo">
+        <img src="/images/people/Catalfamo.jpg" alt="Mr. Enrico Catalfamo">
       </div>
       <span class="person-name">Mr. Enrico Catalfamo</span>
       <span class="person-role">PhD student</span>
