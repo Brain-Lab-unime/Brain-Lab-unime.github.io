@@ -148,11 +148,10 @@ blockquote {
 
 .entry-feature-image {
   width: 100%;
-  max-width: 1397px;
+  max-width: 1397px;   /* larghezza nativa dell'immagine: non la ingrandisce oltre */
+  height: auto;        /* rapporto naturale: mai zoomata, mai tagliata */
   max-height: none;
-  aspect-ratio: 1397 / 417;
-  object-fit: contain;
-  object-position: center;
+  object-fit: contain; /* fallback nel caso un tema forzi un'altezza */
   display: block;
   margin: 0 auto;
 }
