@@ -2,7 +2,7 @@
 layout: home
 title: Brain-Lab
 image:
-  path: /images/hero.jpg
+  path: /images/hero.png
 ---
 
 <style>
