@@ -148,7 +148,7 @@ blockquote {
 
 .entry-feature-image {
   width: 100%;
-  max-width: 1397px;   /* larghezza nativa dell'immagine: non la ingrandisce oltre */
+  max-width: 900px;    /* hero contenuto: più piccolo, centrato (immagine nativa 2170px) */
   height: auto;        /* rapporto naturale: mai zoomata, mai tagliata */
   max-height: none;
   object-fit: contain; /* fallback nel caso un tema forzi un'altezza */
@@ -223,11 +223,17 @@ blockquote {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  object-position: center;
   border-radius: 0 !important;
   border: none !important;
   margin: 0 !important;
   max-width: none !important;
   display: block;
+}
+/* foto verticali (non quadrate): inquadra il volto in alto,
+   così nel cerchio si vede bene il viso e non il centro dell'immagine */
+.img-circle img.photo-top {
+  object-position: center top;
 }
 
 .person-name {
