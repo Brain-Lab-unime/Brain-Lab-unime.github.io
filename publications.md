@@ -175,7 +175,7 @@ permalink: /publications/
     <a class="pub-badge" href="https://doi.org/10.1109/SMARTCOMP58114.2023.00024">DOI</a>
     <details class="pub-bibtex"><summary class="pub-badge">BibTeX</summary><pre class="pub-bib">@inproceedings{devita2023muff,
   author    = {Fabrizio De Vita and Rawan M. A. Nawaiseh and Dario Bruneo and Valeria Tomaselli and Marco Lattuada and Mirko Falchetto},
-  title     = {{$\mu$-FF}: On-Device Forward-Forward Training Algorithm for Microcontrollers},
+  title     = {μ-FF: On-Device Forward-Forward Training Algorithm for Microcontrollers},
   booktitle = {2023 IEEE International Conference on Smart Computing (SMARTCOMP)},
   pages     = {49--56},
   year      = {2023},
