@@ -6,7 +6,8 @@ permalink: /about/
 
 <div class="about-lab">
 
-<p>Il laboratorio ha lo scopo di investigare tecniche innovative nei campi dell'intelligenza artificiale, dei sistemi bio-ispirati, e della robotica per la progettazione di soluzioni efficienti in ambiti multidisciplinari che vanno dagli Smart Environment all'Industria 4.0. A tal fine, il laboratorio integra competenze diverse e complementari, promuovendo un approccio interdisciplinare tra IA, automazione, e modelli biologici.</p>
+<p>The laboratory aims to investigate innovative techniques in the fields of artificial intelligence, bio-inspired systems, and robotics, in order to design efficient solutions for multidisciplinary domains ranging from Smart Environments to Industry 4.0. To this end, the laboratory brings together diverse and complementary expertise, fostering an interdisciplinary approach that combines AI, automation, and biological models.
+</p>
 
 <figure class="about-photo">
   <img src="/images/lab.jpg" alt="Il laboratorio Brain Lab">
