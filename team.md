@@ -41,14 +41,6 @@ permalink: /team/
 
     <div class="person-card">
       <div class="img-circle">
-        <img src="/images/people/Catalfamo.jpg" alt="Enrico Catalfamo">
-      </div>
-      <span class="person-name">Enrico Catalfamo</span>
-      <span class="person-role">PhD student</span>
-    </div>
-
-    <div class="person-card">
-      <div class="img-circle">
         <img src="/images/people/Roccaforte.jpg" class="photo-top" alt="Gaia Roccaforte">
       </div>
       <span class="person-name">Gaia Roccaforte</span>
